@@ -1,1 +1,2 @@
-# Predict-a-Price
+# Predict-a-Price : Your Laptop Price Predictor
+Welcome to Predict-a-Price, your ultimate destination for anticipating laptop prices. Our advanced algorithm analyzes market trends, historical data, and upcoming technological advancements to provide you with accurate price predictions for a wide range of laptops. Whether you're a savvy shopper planning your next purchase or a tech enthusiast wanting to stay ahead of the market, Predict-a-Price equips you with the insights needed to make informed decisions. Stay ahead of the curve with our reliable and user-friendly platform. Explore, predict, and save with Predict-a-Price!
